@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+
+    <item android:title="Home"
+        android:id="@+id/home"
+        app:showAsAction="never"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_baseline_attach_money_24"
+        />
+    <item android:title="Laptops"
+        android:id="@+id/laptops"
+        app:showAsAction="never"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_baseline_attach_money_24"
+        />
+    <item android:title="Radios"
+        android:id="@+id/radios"
+        app:showAsAction="never"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_baseline_attach_money_24"
+        />
+<!--    <item android:title="Jeans"-->
+<!--        android:id="@+id/jeans"-->
+<!--        app:showAsAction="never"-->
+<!--        android:orderInCategory="100"-->
+<!--        android:icon="@drawable/ic_baseline_attach_money_24"-->
+<!--        />-->
+</group>
+</menu>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "259090118557",
+    "project_id": "icare-516dd",
+    "storage_bucket": "icare-516dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259090118557:android:44629d1e5bee7192e66174",
+        "android_client_info": {
+          "package_name": "com.mugerwa.icare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259090118557-6ovqk8hteujeahbukl40bo6sj1guopsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr9p5uN1ONmf7D8o5fpKotGQnYjtE9MB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259090118557-6ovqk8hteujeahbukl40bo6sj1guopsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
